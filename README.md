@@ -2,7 +2,9 @@
 
 
 
-
+<img src='./img/successful merge.png'>
+<img src='./img/confirm merge.png'>
+<img src='./img/mergin pull request.png'>
 <img src='./img/pull request.png'>
 <img src='./img/mergin pull request.png'>
 <img src='./img/pull request created.png'>

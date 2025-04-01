@@ -1,5 +1,11 @@
-# ai-startup-website
+# MINI-PROJECT- ai-startup-website
 
+
+
+
+<img src='./img/pull request.png'>
+<img src='./img/mergin pull request.png'>
+<img src='./img/pull request created.png'>
 <img src='./img/clone repostory in terminal.png'>
 <img src='./img/clonning repository.png'>
 <img src='./img/cone repository with git clone.png'>

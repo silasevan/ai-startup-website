@@ -30,21 +30,6 @@ Below are screenshots demonstrating the GitHub workflow steps:
 <img src='./img/pull request.png'>
 <img src='./img/mergin pull request.png'>
 <img src='./img/pull request created.png'>
-## Repository Links
-- Repository: [https://github.com/silasevan/ai-startup-website](https://github.com/silasevan/ai-startup-website)
-
- Branches: https://github.com/silasevan/ai-startup-website/tree/update-navigation
-https://github.com/silasevan/ai-startup-website/tree/add-contact-info
-https://github.com/silasevan/ai-startup-website/tree/main
-
-## Conclusion
-This project demonstrates the effective use of GitHub workflows for managing an AI startup website. The structured approach ensures smooth collaboration, proper version control, and organized development processes.
-
-
-
-
-
-
 <img src='./img/clone repostory in terminal.png'>
 <img src='./img/clonning repository.png'>
 <img src='./img/cone repository with git clone.png'>
@@ -61,5 +46,21 @@ This project demonstrates the effective use of GitHub workflows for managing an 
 <img src='./img/Push jerry work to add-contact-info.png'>
 <img src='./img/repository created.png'>
 <img src='./img/Tom add Navigation.png'>
+
+## Repository Links
+- Repository: [https://github.com/silasevan/ai-startup-website](https://github.com/silasevan/ai-startup-website)
+
+ Branches: https://github.com/silasevan/ai-startup-website/tree/update-navigation
+https://github.com/silasevan/ai-startup-website/tree/add-contact-info
+https://github.com/silasevan/ai-startup-website/tree/main
+
+## Conclusion
+This project demonstrates the effective use of GitHub workflows for managing an AI startup website. The structured approach ensures smooth collaboration, proper version control, and organized development processes.
+
+
+
+
+
+
 
 
